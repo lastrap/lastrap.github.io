@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lastrap.github.io/sitemap.html.gz
+Sitemap: https://lastrap.github.io/app/sitemap.html.gz
+Sitemap: https://lastrap.github.io/assets/sitemap.html.gz
+Sitemap: https://lastrap.github.io/css/sitemap.html.gz
+Sitemap: https://lastrap.github.io/data/sitemap.html.gz
+Sitemap: https://lastrap.github.io/includes/sitemap.html.gz
+Sitemap: https://lastrap.github.io/item/sitemap.html.gz
+Sitemap: https://lastrap.github.io/src/sitemap.html.gz
